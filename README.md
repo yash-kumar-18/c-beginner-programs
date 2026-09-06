@@ -33,3 +33,10 @@ It demonstrates the use of:
 2. Open a terminal and compile the program:
    ```bash
    gcc vote.c -o vote
+   ./vote
+   ```
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
