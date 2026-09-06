@@ -17,5 +17,4 @@ int main (void){
     {printf("You Are Not Eligible To Vote");
     }
     return 0;
-
 }
