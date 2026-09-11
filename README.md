@@ -24,6 +24,7 @@ Focus areas:
 
 ## 📂 Projects and Detailed READMEs
 1. [Voting Eligibility Checker](./project-readmes/Voting_Eligibility_Checker.md)
+2. [Bill Splitter](./project-readmes/Bill_Splitter.md)
 
 ---
 
