@@ -1,4 +1,4 @@
-# Table_Generator.c
+# Table_Maker.c
 
 ## 📖 Overview
 This program generates the multiplication table of a given number up to a user-defined limit.  
