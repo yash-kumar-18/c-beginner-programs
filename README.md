@@ -25,9 +25,10 @@ Focus areas:
 ## 📂 Projects and Detailed READMEs
 1. [Voting Eligibility Checker](./project-readmes/Voting_Eligibility_Checker.md)
 2. [Mini ATM](./project-readmes/Mini_ATM.md)
-3. [Simple Calculator](./project-readmes/Simple_Calculator.md)
-4. [Temperature Converter](./project-readmes/Temperature_Converter.md)
-5. [Bill Splitter](./project-readmes/Bill_Splitter.md)
+3. [Table Maker](./project-readmes/Table_Maker.md)
+4. [Simple Calculator](./project-readmes/Simple_Calculator.md)
+5. [Temperature Converter](./project-readmes/Temperature_Converter.md)
+6. [Bill Splitter](./project-readmes/Bill_Splitter.md)
 
 ---
 
