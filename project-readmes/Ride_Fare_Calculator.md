@@ -1,4 +1,4 @@
-# Fare_Calculator.c
+# Ride_Fare_Calculator.c
 
 ## 📖 Overview
 This program calculates the fare for different vehicle types (Bike, Auto, Sedan) based on distance traveled, rush hour surcharge, and applicable discounts.  
