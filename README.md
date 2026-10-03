@@ -26,10 +26,11 @@ Focus areas:
 1. [Voting Eligibility Checker](./project-readmes/Voting_Eligibility_Checker.md)
 2. [Day Teller](./project-readmes/Day_Teller.md)
 3. [Mini ATM](./project-readmes/Mini_ATM.md)
-4. [Table Maker](./project-readmes/Table_Maker.md)
-5. [Simple Calculator](./project-readmes/Simple_Calculator.md)
-6. [Temperature Converter](./project-readmes/Temperature_Converter.md)
-7. [Bill Splitter](./project-readmes/Bill_Splitter.md)
+4. [Ride Fare Calculator](./project-readmes/Ride_Fare_Calculator.md)
+5. [Table Maker](./project-readmes/Table_Maker.md)
+6. [Simple Calculator](./project-readmes/Simple_Calculator.md)
+7. [Temperature Converter](./project-readmes/Temperature_Converter.md)
+8. [Bill Splitter](./project-readmes/Bill_Splitter.md)
 
 ---
 
